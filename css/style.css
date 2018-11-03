@@ -139,7 +139,7 @@ section{
 
 }
 #social a{
-  border: solid red 1px;
+  font-style: bold;
   background-color: red;
   padding:3px;
   color: white;
