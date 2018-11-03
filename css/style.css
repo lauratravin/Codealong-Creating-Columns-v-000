@@ -130,3 +130,11 @@ section{
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
 }
+
+/*/////Media//////*/
+#social{
+ position: absolute;
+ top: 0px;
+ left: 0px;
+ border: solid red 1px;
+}
