@@ -101,4 +101,6 @@ figcaption {
 }
 .clearfix:after{
   clear:both;
+  display:block;
+
 }
