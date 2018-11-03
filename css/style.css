@@ -141,6 +141,7 @@ section{
 
 }
 #social a{
+  display: block;
   font-weight: bold;
   font-size: 10px;
   text-decoration: none;
