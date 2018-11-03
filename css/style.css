@@ -131,6 +131,11 @@ section{
   -webkit-box-sizing: border-box;
 }
 
+header{
+  position: fixed;
+  top: 0px;
+left: 0px;
+}
 /*/////Media//////*/
 #social{
  position: fixed;
