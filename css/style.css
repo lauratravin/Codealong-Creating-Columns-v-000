@@ -70,6 +70,10 @@ figcaption {
 #details a:active {
   color: red;
 }
+/*/////Media//////*/
+video, img{
+  max-width: 100%; /*of the content tag
+}
 
 /*/////Layout//////*/
 .wrapper{
