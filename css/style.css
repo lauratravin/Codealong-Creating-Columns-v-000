@@ -136,9 +136,11 @@ section{
  position: absolute;
  top: 0px;
  left: 0px;
- border: solid red 1px;
+
 }
 #social a{
   border: solid red 1px;
+  background-color: red;
   padding:3px;
+  color: white;
 }
