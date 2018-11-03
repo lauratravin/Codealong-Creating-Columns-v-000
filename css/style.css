@@ -140,7 +140,7 @@ section{
 }
 #social a{
   font-weight: bold;
-  font-style: underline;
+  text-decoration: none;
   background-color: red;
   padding:3px;
   color: white;
