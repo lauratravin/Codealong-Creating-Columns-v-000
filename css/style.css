@@ -112,6 +112,7 @@ video,audio, img{
   height: : 0px;
 }
 footer{
+  width: 100%;
   display: inline-block;
   text-align: center;
 }
