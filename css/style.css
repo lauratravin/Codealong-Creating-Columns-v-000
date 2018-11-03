@@ -137,6 +137,7 @@ header{
   left: 0px;
   background: #fff;
   width:100%;
+  z-index: 1;
 
 }
 /*/////Media//////*/
