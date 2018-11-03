@@ -99,8 +99,8 @@ figcaption {
 .first{
   margin-left: 0%;
 }
-.clearfix:after{
+.clearfix{
   clear:both;
-  display:block;
+
 
 }
