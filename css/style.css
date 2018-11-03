@@ -123,7 +123,7 @@ header{
   position: fixed;
   top: 0px;
   left: 0px;
-  background: red;
+  background: white;
   width:100%;
   z-index: 1;
 }
