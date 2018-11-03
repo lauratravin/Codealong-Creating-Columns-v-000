@@ -133,7 +133,7 @@ section{
 
 /*/////Media//////*/
 #social{
- position: absolute;
+ position: fixed;
  top: 0px;
  right: 0px;
 
