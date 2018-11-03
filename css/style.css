@@ -142,7 +142,7 @@ header{
 /*/////Media//////*/
 #social{
  position: fixed;
- top: 0px;
+ top: 200px;
  right: 0px;
  z-index: 1 /*to be on top always*/
 
