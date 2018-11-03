@@ -98,10 +98,11 @@ figcaption {
 
 .first{
   margin-left: 0%;
-  clear:both;
+
 }
-.clearfix{
+.clearfix:after{
   clear:both;
+  margin-bottom: 50px;
 
 
 }
