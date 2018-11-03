@@ -131,15 +131,7 @@ section{
   -webkit-box-sizing: border-box;
 }
 
-header{
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  background: #fff;
-  width:100%;
-  z-index: 1;
 
-}
 /*/////Media//////*/
 #social{
  position: fixed;
