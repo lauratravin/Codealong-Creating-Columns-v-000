@@ -79,7 +79,7 @@ video,audio, img{
 .wrapper{
   width:960px;
   margin: 0 auto;
-  background:#eee;
+  /*background:#eee;*/
 }
 
 .col-1{
