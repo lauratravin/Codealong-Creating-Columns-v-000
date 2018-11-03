@@ -71,7 +71,7 @@ figcaption {
   color: red;
 }
 /*/////Media//////*/
-video, img{
+video,audio, img{
   max-width: 100%; /*of the content tag
 }
 
