@@ -135,8 +135,9 @@ header{
   position: fixed;
   top: 0px;
   left: 0px;
-  background: white;
+  background: #fff;
   width:100%;
+
 }
 /*/////Media//////*/
 #social{
