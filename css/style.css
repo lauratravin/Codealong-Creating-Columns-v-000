@@ -110,6 +110,7 @@ video,audio, img{
   clear:both;
   line-height: 0px;
   height: : 0px;
+
 }
 
 footer{
@@ -125,4 +126,6 @@ section{
 }
 *{
   box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
 }
