@@ -114,4 +114,6 @@ video,audio, img{
 footer{
   width:960px;
   margin: 0 auto;
+  display: inline-block;
+  text-align: center;
 }
