@@ -111,8 +111,15 @@ video,audio, img{
   line-height: 0px;
   height: : 0px;
 }
+
 footer{
   width: 100%;
   display: inline-block;
   text-align: center;
+}
+
+/*///Section style////*/
+section{
+  padding:20px;
+  margin-bottom: 20px;
 }
