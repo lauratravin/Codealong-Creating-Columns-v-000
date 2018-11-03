@@ -137,6 +137,7 @@ section{
  top: 0px;
  right: 0px;
 
+
 }
 #social a{
   font-weight: bold;
@@ -145,4 +146,5 @@ section{
   background-color: black;
   padding:5px;
   color: white;
+   width: 40px;
 }
