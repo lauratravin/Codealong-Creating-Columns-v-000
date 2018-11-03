@@ -134,7 +134,8 @@ section{
 header{
   position: fixed;
   top: 0px;
-left: 0px;
+  left: 0px;
+  background: white;
 }
 /*/////Media//////*/
 #social{
